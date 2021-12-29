@@ -8,46 +8,10 @@ The specification for this problem is written down as tests. Since we haven’t 
 
 Here's how it should work when you're done:
 
-[![TASK-CLI](https://res.cloudinary.com/sv-co/image/upload/v1638058186/GDC/SE/Admission/gdc-home-page_b6s3go.png)](https://vimeo.com/648902045)
-## Getting started
+[![TASK-CLI](https://res.cloudinary.com/sv-co/image/upload/v1638058186/GDC/SE/Admission/gdc-home-page_b6s3go.png)]
+# Getting started
 
-1. Install Python: Python is usually installed by default on most modern systems. To check what your currently have, open a terminal and run the following command:
-
-   ```
-   python3 --version
-   ```
-
-   This should output some information on the installed Python version.
-   You can also install python by following these instructions: https://installpython3.com/
-
-2. You are expected to write the code in `task.py` file.
-
-3. Once you are done with the changes you should be able to execute the task app by running the following command from the terminal.
-
-   **On Windows:**
-
-   ```
-   .\task.bat
-   ```
-
-   **On \*nix:**
-
-   ```
-   ./task.sh
-   ```
-## Run Automated Tests
-
-### 1. Install Node.js
-
-You need to have npm installed in your computer for this problem. It comes with Node.js and you can get it by installing Node from https://nodejs.org/en/
-
-### 2. Install dependencies
-
-Run `npm install` to install all dependencies.
-
-### 3. Create Create symbolic link to the executable file
-
-#### On Windows
+### On Windows
 
 To create a symbolic link on Windows, you'll need to run either the Windows Command Prompt, or Windows Powershell **with administrator privileges**. To do so, right-click on the icon for Command Prompt, or Powershell, and choose the _"Run as Administrator"_ option.
 
